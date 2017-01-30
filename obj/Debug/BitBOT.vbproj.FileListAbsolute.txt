@@ -1,0 +1,28 @@
+C:\Users\fernando.zigunov\AppData\Local\Temporary Projects\BitBOT\bin\Debug\BitBOT.exe.config
+D:\00 - Files\00 - Personal\40 - Hobbies\90 - Projetos Particulares\43 - Bitcoin BOT\BitBOT\bin\Debug\BitBOT.exe.config
+D:\00 - Files\00 - Personal\40 - Hobbies\90 - Projetos Particulares\43 - Bitcoin BOT\BitBOT\bin\Debug\BitBOT.exe
+D:\00 - Files\00 - Personal\40 - Hobbies\90 - Projetos Particulares\43 - Bitcoin BOT\BitBOT\bin\Debug\BitBOT.pdb
+D:\00 - Files\00 - Personal\40 - Hobbies\90 - Projetos Particulares\43 - Bitcoin BOT\BitBOT\bin\Debug\BitBOT.xml
+D:\00 - Files\00 - Personal\40 - Hobbies\90 - Projetos Particulares\43 - Bitcoin BOT\BitBOT\obj\Debug\BitBOT.vbprojResolveAssemblyReference.cache
+D:\00 - Files\00 - Personal\40 - Hobbies\90 - Projetos Particulares\43 - Bitcoin BOT\BitBOT\obj\Debug\BitBOT.Resources.resources
+D:\00 - Files\00 - Personal\40 - Hobbies\90 - Projetos Particulares\43 - Bitcoin BOT\BitBOT\obj\Debug\BitBOT.vbproj.GenerateResource.Cache
+D:\00 - Files\00 - Personal\40 - Hobbies\90 - Projetos Particulares\43 - Bitcoin BOT\BitBOT\obj\Debug\BitBOT.exe
+D:\00 - Files\00 - Personal\40 - Hobbies\90 - Projetos Particulares\43 - Bitcoin BOT\BitBOT\obj\Debug\BitBOT.xml
+D:\00 - Files\00 - Personal\40 - Hobbies\90 - Projetos Particulares\43 - Bitcoin BOT\BitBOT\obj\Debug\BitBOT.pdb
+D:\00 - Files\00 - Personal\40 - Hobbies\90 - Projetos Particulares\43 - Bitcoin BOT\BitBOT\obj\Debug\BitBOT.frmBitWatch.resources
+G:\00 - Files\00 - Personal\40 - Hobbies\90 - Projetos Particulares\43 - Bitcoin BOT\BitBOT\bin\Debug\BitBOT.exe.config
+G:\00 - Files\00 - Personal\40 - Hobbies\90 - Projetos Particulares\43 - Bitcoin BOT\BitBOT\obj\Debug\BitBOT.exe
+G:\00 - Files\00 - Personal\40 - Hobbies\90 - Projetos Particulares\43 - Bitcoin BOT\BitBOT\obj\Debug\BitBOT.xml
+G:\00 - Files\00 - Personal\40 - Hobbies\90 - Projetos Particulares\43 - Bitcoin BOT\BitBOT\obj\Debug\BitBOT.pdb
+G:\00 - Files\00 - Personal\40 - Hobbies\90 - Projetos Particulares\43 - Bitcoin BOT\BitBOT\obj\Debug\BitBOT.vbprojResolveAssemblyReference.cache
+G:\00 - Files\00 - Personal\40 - Hobbies\90 - Projetos Particulares\43 - Bitcoin BOT\BitBOT\obj\Debug\BitBOT.frmBitWatch.resources
+G:\00 - Files\00 - Personal\40 - Hobbies\90 - Projetos Particulares\43 - Bitcoin BOT\BitBOT\obj\Debug\BitBOT.Resources.resources
+G:\00 - Files\00 - Personal\40 - Hobbies\90 - Projetos Particulares\43 - Bitcoin BOT\BitBOT\obj\Debug\BitBOT.vbproj.GenerateResource.Cache
+G:\00 - Files\00 - Personal\40 - Hobbies\90 - Projetos Particulares\43 - Bitcoin BOT\BitBOT\bin\Debug\BitBOT.exe
+G:\00 - Files\00 - Personal\40 - Hobbies\90 - Projetos Particulares\43 - Bitcoin BOT\BitBOT\bin\Debug\BitBOT.pdb
+G:\00 - Files\00 - Personal\40 - Hobbies\90 - Projetos Particulares\43 - Bitcoin BOT\BitBOT\bin\Debug\BitBOT.xml
+G:\00 - Files\00 - Personal\40 - Hobbies\90 - Projetos Particulares\43 - Bitcoin BOT\BitBOT\bin\Debug\Newtonsoft.Json.dll
+G:\00 - Files\00 - Personal\40 - Hobbies\90 - Projetos Particulares\43 - Bitcoin BOT\BitBOT v2\bin\Debug\BitBOT.exe.config
+G:\00 - Files\00 - Personal\40 - Hobbies\90 - Projetos Particulares\43 - Bitcoin BOT\BitBOT v2\obj\Debug\BitBOT.exe
+G:\00 - Files\00 - Personal\40 - Hobbies\90 - Projetos Particulares\43 - Bitcoin BOT\BitBOT v2\obj\Debug\BitBOT.xml
+G:\00 - Files\00 - Personal\40 - Hobbies\90 - Projetos Particulares\43 - Bitcoin BOT\BitBOT v2\obj\Debug\BitBOT.pdb
