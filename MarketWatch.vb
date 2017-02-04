@@ -141,6 +141,9 @@ Public Class frmBitWatch
         Dim R As Double
 
         Dim Count As Long = 0
+        Dim Line As String = ""
+        Dim strFile As String = IO.Path.Combine(Environment.CurrentDirectory, "Log.csv")
+        Dim fileExists As Boolean = IO.File.Exists(strFile)
 
         For I As Long = 0 To SymbolList.Count - 1
             For J As Long = 0 To SymbolList.Count - 1
@@ -161,6 +164,27 @@ Public Class frmBitWatch
                                 lstMarket.Items(lstMarket.Items.Count - 1).SubItems.Add(X23)
                                 lstMarket.Items(lstMarket.Items.Count - 1).SubItems.Add(X31)
                                 lstMarket.Items(lstMarket.Items.Count - 1).SubItems.Add(R)
+
+                                Line = DateTime.Now.ToString("dd/MM HH:mm:ss") & ";" &
+                                    SymbolList(I).ToString & ";" &
+                                    SymbolList(J).ToString & ";" &
+                                    SymbolList(K).ToString & ";" &
+                                    X12.ToString & ";" &
+                                    X23.ToString & ";" &
+                                    X31.ToString & ";" &
+                                    R.ToString
+
+                                If fileExists Then
+                                    Using SW As System.IO.StreamWriter = IO.File.AppendText(strFile)
+                                        SW.WriteLine(Line)
+                                    End Using
+                                Else
+                                    Using SW As System.IO.StreamWriter = IO.File.CreateText(strFile)
+                                        SW.WriteLine(Line)
+                                    End Using
+                                End If
+
+
                             End If
 
                         End If
@@ -273,7 +297,6 @@ Public Class frmBitWatch
 
 
 #End Region
-
 
     Private Sub tmrUpdate_Tick(sender As Object, e As EventArgs) Handles tmrUpdate.Tick
         If Not BGUpdateData.IsBusy Then BGUpdateData.RunWorkerAsync()
